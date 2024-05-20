@@ -1,4 +1,4 @@
-# Assignment Instructions: Data Analysis with SQL
+# Data Analysis with SQL
 You will be working with the European Soccer Database, a collection of four individual CSV files that you will find in the 2.9.x European Soccer Database.zip compressed folder, containing:
 - leagues.csv
 - match.csv
