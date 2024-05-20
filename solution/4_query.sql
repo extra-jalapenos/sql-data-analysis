@@ -8,6 +8,7 @@ SELECT
 	LEFT JOIN `sql-sandbox-20240505.final_exercise.leagues` as league
 	ON match.league_id=league.id
   GROUP BY name, season
-	ORDER BY name, season ASC
+	ORDER BY sum_home_goal DESC
 
 -- this does not yet include the mid range i know
+-- ENGLAND PREMIER LEAGUE of 2009/2010 had the most home goals.
