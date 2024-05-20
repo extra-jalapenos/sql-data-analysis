@@ -35,5 +35,5 @@ Then write a query that shows, for each Season, the number of matches played by 
 8. Which Team has scored the highest total number of goals (home + away) during the most recent available season? How many goals has it scored?
 9. Create a query that, for each season, shows the name of the team that ranks first in terms of total goals scored (the output table should have as many rows as the number of seasons).
 Which team was the one that ranked first in most of the seasons?
-1.  From the query above (question 8) create a new table (TopScorer) containing the top 10 teams in terms of total goals scored (hint: add the team id as well).
+10. From the query above (question 8) create a new table (TopScorer) containing the top 10 teams in terms of total goals scored (hint: add the team id as well).
 Then write a query that shows all the possible “pair combinations” between those 10 teams. How many “pair combinations” did it generate?
