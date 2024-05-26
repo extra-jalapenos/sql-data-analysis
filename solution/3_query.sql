@@ -5,3 +5,4 @@ Min(DATE), Day) As Days_Between,
 MAX(DATE) AS Latest
 FROM `sql-sandbox-20240505.final_exercise.match`;
 
+-- 2868 days in between
